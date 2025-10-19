@@ -45,7 +45,7 @@ The workflow relies on secure credentials for external services. You must update
 
 | Node | Credential Type | Action Required |
 | :--- | :--- | :--- |
-| **HTTP Request** (and **1**, **2**) | Custom Header `Authorization` | **Replace** the placeholder value `0e722ef4510c43f98b32227b1c9ccd68` with your **actual AssemblyAI API Key**. |
+| **HTTP Request** (and **1**, **2**) | Custom Header `Authorization` | **Replace** the placeholder value `***************` with your **actual AssemblyAI API Key**. |
 | **OpenAI Chat Model** | **OpenAiApi** | **Replace** the linked credential with your **OpenAI API Key**. |
 | **Send Email** | **SMTP** | **Replace** the linked credential with your working **SMTP Account** credentials. |
 
